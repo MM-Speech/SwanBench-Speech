@@ -3,15 +3,12 @@
 # SwanBench-Speech: Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios
 #### Changhao Pan*, Rui Yang*, Han Wang*, Zhuan Zhou, Xuming He, Wenxiang Guo, Ziyue Jiang, Ruiqi Li, Yu Zhang, Chenyuhao Wen, Ke Lei, Xiang Yin, Jingyu Lu, Zhiyuan Zhu, Zhou Zhao | Zhejiang University
 
-*Equal contribution*
-
 Test dataset and evaluation code of SwanBench-Speech (ACL 2026 Findings): Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios
 
-<p align="center">
-  <a href="https://github.com/MM-Speech/SwanBench-Speech#"><img src="https://img.shields.io/badge/Arxiv-Paper-B31B1B?style=for-the-badge" alt="Arxiv Paper"></a>
-  <a href="https://david-pigeon.github.io/SwanBench-Speech_Demo/"><img src="https://img.shields.io/badge/Demo-Page-0A7EA4?style=for-the-badge" alt="Demo Page"></a>
-  <a href="https://github.com/MM-Speech/SwanBench-Speech"><img src="https://img.shields.io/github/stars/MM-Speech/SwanBench-Speech?style=for-the-badge" alt="GitHub Stars"></a>
-</p>
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://github.com/MM-Speech/SwanBench-Speech#)
+[![Demo](https://img.shields.io/badge/%F0%9F%9A%80%20Demo%20Page-blue)](https://david-pigeon.github.io/SwanBench-Speech_Demo/)
+[![Hugging Face](https://img.shields.io/badge/SwanBench--Speech--Dataset-Hugging%20Face-blue?logo=huggingface&logoColor=white)](https://huggingface.co/datasets)
+[![GitHub Stars](https://img.shields.io/github/stars/MM-Speech/SwanBench-Speech?style=social&label=GitHub+Stars)](https://github.com/MM-Speech/SwanBench-Speech)
 
 </div>
 
